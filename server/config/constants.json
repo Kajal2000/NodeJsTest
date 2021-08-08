@@ -1,0 +1,7 @@
+{
+    "local": {
+        "distance": 100,
+        "sds_web": "http://localhost:3000/#!",
+        "port": 3034
+    }
+}
